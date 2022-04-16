@@ -4,7 +4,7 @@ import '../header/header.css'
 const Header = () => {
   return (
     <div>
-      <h1>Em produção</h1> 
+      <h1>Header novo</h1> 
     </div>
   )
 }
