@@ -12,7 +12,7 @@
 ## Sobre
 Este é um projeto de um site responsivo utilizando React js. 
 Treinamento e material disponibilizado pelo [@adrianhajdin](https://github.com/adrianhajdin) em seu canal [JavaScript Mastery
-](https://youtu.be/LMagNcngvcU) no YouTube. Desde já agradeço ao mesmo pelo ótimo trabalho!
+](https://youtu.be/LMagNcngvcU) no YouTube. Desde já, agradeço ao mesmo pelo ótimo trabalho!
 
 ## O que já aprendi
 
