@@ -1,7 +1,12 @@
 
+<h1 align="center">Modern UI/UX GPT-3</h>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/template.png" />
+    <img alt="" title="" src="./src/assets/template.png" />
 </h1>
+
+> Status: Em Desenvolvimento
+
+
 
 <br>
 <br>
