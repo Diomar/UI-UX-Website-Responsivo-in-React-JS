@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.26c1c480.css",
-    "main.js": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.8f90a806.js",
+    "main.css": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.1a022966.css",
+    "main.js": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.c4f8d671.js",
+    "static/media/logo.svg": "/UI-UX-Website-Responsivo-in-React-JS/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/UI-UX-Website-Responsivo-in-React-JS/index.html",
-    "main.26c1c480.css.map": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.26c1c480.css.map",
-    "main.8f90a806.js.map": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.8f90a806.js.map"
+    "main.1a022966.css.map": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.1a022966.css.map",
+    "main.c4f8d671.js.map": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.c4f8d671.js.map"
   },
   "entrypoints": [
-    "static/css/main.26c1c480.css",
-    "static/js/main.8f90a806.js"
+    "static/css/main.1a022966.css",
+    "static/js/main.c4f8d671.js"
   ]
 }
