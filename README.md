@@ -9,6 +9,9 @@
 
 > Status: Em Desenvolvimento
 
+
+## [Ver resultado](https://diomar.github.io/UI-UX-Website-Responsivo-in-React-JS/)
+
 ## Sobre
 Este é um projeto de um site responsivo utilizando React js. 
 Treinamento e material disponibilizado pelo [@adrianhajdin](https://github.com/adrianhajdin) em seu canal [JavaScript Mastery
