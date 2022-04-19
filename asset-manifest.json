@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.9ea52f94.css",
-    "main.js": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.01e1454e.js",
+    "main.css": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.32983201.css",
+    "main.js": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.1ad90467.js",
     "static/media/ai.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/people.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/UI-UX-Website-Responsivo-in-React-JS/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/UI-UX-Website-Responsivo-in-React-JS/index.html",
-    "main.9ea52f94.css.map": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.9ea52f94.css.map",
-    "main.01e1454e.js.map": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.01e1454e.js.map"
+    "main.32983201.css.map": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.32983201.css.map",
+    "main.1ad90467.js.map": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.1ad90467.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ea52f94.css",
-    "static/js/main.01e1454e.js"
+    "static/css/main.32983201.css",
+    "static/js/main.1ad90467.js"
   ]
 }
