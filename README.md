@@ -20,6 +20,7 @@ Treinamento e material disponibilizado pelo [@adrianhajdin](https://github.com/a
 ## O que já aprendi
 
 - Estrutura de arquivos e pastas
-- Componentes funcionais do React e sua reutilização
+- Componentes e props
+- Reutilização de componentes
 - Biuld and Deploy
 
