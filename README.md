@@ -24,5 +24,6 @@ Treinamento e material disponibilizado pelo [@adrianhajdin](https://github.com/a
 - Componentes e props
 - Reutilização de componentes
 - Arrey de Objetos 
+- Responsividade
 
 
