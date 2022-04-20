@@ -19,8 +19,10 @@ Treinamento e material disponibilizado pelo [@adrianhajdin](https://github.com/a
 
 ## O que já aprendi
 
+- Biuld and Deploy
 - Estrutura de arquivos e pastas
 - Componentes e props
 - Reutilização de componentes
-- Biuld and Deploy
+- Arrey de Objetos 
+
 
