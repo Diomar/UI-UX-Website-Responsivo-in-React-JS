@@ -2,7 +2,7 @@
     border: 1px solid white;
     color: white;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-direction: row;
     padding: 2rem;
@@ -11,20 +11,27 @@
     background: var(--gradient-bar);
 }
 
+.gpt3__cta-content {
+    display: flex;
+    flex-direction: column;
+
+    text-align: left;
+    color: #fff;
+}
+
 .gpt3__cta-content p {
     font-family: var(--font-family);
-    font-weight: 500;
+    font-weight: 800;
     font-size: 12px;
-    line-height: 30px;    
+    line-height: 45px;    
     color: #0E0E0E;
 }
 
 .gpt3__cta-content h3 {
     font-family: var(--font-family);
-    font-weight: 500;
+    font-weight: 800;
     font-size: 24px;
     line-height: 45px;    
-    color: #000000;
 }
 
 .gpt3__cta-btn {
@@ -39,7 +46,7 @@
     color: #FFFFFF;
     border-radius: 40px;
     font-family: var(--font-family);
-    font-weight: bold;
+    font-weight: 700;
     font-size: 18px;
     line-height: 30px;  
     padding: 0.5rem 1rem;  
