@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.80a74443.css",
-    "main.js": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.146fdd77.js",
+    "main.css": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.5914fe88.css",
+    "main.js": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.5c643401.js",
     "static/media/ai.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/blog02.ab0eb367561796e91532.png",
     "static/media/people.png": "/UI-UX-Website-Responsivo-in-React-JS/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/UI-UX-Website-Responsivo-in-React-JS/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/UI-UX-Website-Responsivo-in-React-JS/index.html",
-    "main.80a74443.css.map": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.80a74443.css.map",
-    "main.146fdd77.js.map": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.146fdd77.js.map"
+    "main.5914fe88.css.map": "/UI-UX-Website-Responsivo-in-React-JS/static/css/main.5914fe88.css.map",
+    "main.5c643401.js.map": "/UI-UX-Website-Responsivo-in-React-JS/static/js/main.5c643401.js.map"
   },
   "entrypoints": [
-    "static/css/main.80a74443.css",
-    "static/js/main.146fdd77.js"
+    "static/css/main.5914fe88.css",
+    "static/js/main.5c643401.js"
   ]
 }
