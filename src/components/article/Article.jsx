@@ -16,4 +16,4 @@ const Article = ({ imgUrl, date, text }) => (
     </div>
   );
 
-export default Article
+export default Article;

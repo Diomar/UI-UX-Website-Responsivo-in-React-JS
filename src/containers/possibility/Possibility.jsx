@@ -2,8 +2,7 @@ import React from 'react'
 import possibilityImage from '../../assets/possibility.png';
 import '../possibility/possibility.css'
 
-const Possibility = () => {
-  return (
+const Possibility = () => (
     <div className="gpt3__possibility section__padding" id="possibility">
       <div className="gpt3__possibility-image">
         <img src={possibilityImage} alt="possibility" />
@@ -20,6 +19,5 @@ const Possibility = () => {
       </div>
     </div>
   );
-}
 
-export default Possibility
+export default Possibility;

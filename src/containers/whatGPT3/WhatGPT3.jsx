@@ -2,8 +2,7 @@ import React from 'react'
 import { Feature } from '../../components';
 import '../whatGPT3/whatGPT3.css'
 
-const WhatGPT3 = () => {
-  return (
+const WhatGPT3 = () => (
     <div>
       <div className="gpt3__whatgpt3 section__margin" id="whgpt3">
         <div className="gpt3__whatgpt3-feature">
@@ -24,7 +23,6 @@ const WhatGPT3 = () => {
         </dir>
       </div>
     </div>
-  )
-}
+  );
 
-export default WhatGPT3
+export default WhatGPT3;

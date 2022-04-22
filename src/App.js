@@ -1,9 +1,8 @@
 // rafce cria a estrutura básica do componente
 import React from 'react'
 import { Article, Brand, CTA, Feature, Navbar } from './components'
-import { Blog, Fatures, Footer, Header, Possibility, whatGPT3 } from './containers'
-import Features from './containers/features/Features'
-import WhatGPT3 from './containers/whatGPT3/WhatGPT3'
+import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from './containers'
+
 import './App.css'
 
 const App = () => {

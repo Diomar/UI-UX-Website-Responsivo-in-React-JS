@@ -13,4 +13,4 @@ const CTA = () => (
     </div>
   );
 
-export default CTA
+export default CTA;

@@ -26,4 +26,4 @@ const Blog = () => (
         </div>
     </div>
   );
-export default Blog
+export default Blog;

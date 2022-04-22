@@ -21,8 +21,7 @@ const featuresData = [
   }
 ]
 
-const Features = () => {
-  return (
+const Features = () => (
     <div className="gpt3__features section__padding " id="features">
       <nav className="gpt3__features-heading">
         <h1 className="gradient__text">
@@ -38,7 +37,6 @@ const Features = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
 
-export default Features
+export default Features;
